@@ -7,3 +7,6 @@ nav div{
     display: flex;
     width: 33%;
 }
+img{
+    height: 75px;
+}
