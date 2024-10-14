@@ -1,0 +1,9 @@
+nav{
+    position: absolute;
+    display: flex;
+    width: 100%;
+}
+nav div{
+    display: flex;
+    width: 33%;
+}
